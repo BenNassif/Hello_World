@@ -13,3 +13,7 @@ I don't have a project yet but when I do, the title and description will go here
 
 ## How To Run This Project
 Examples of how to run the project go here. 
+
+## List of Contributors
+- Ben Nassif
+- Others
